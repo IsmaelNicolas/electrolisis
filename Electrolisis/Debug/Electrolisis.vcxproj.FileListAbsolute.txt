@@ -1,0 +1,3 @@
+D:\User\0\Desarollo\C++\Electrolisis\Electrolisis\Electrolisis\Debug\Electrolisis.vcxprojAssemblyReference.cache
+D:\User\0\Desarollo\C++\Electrolisis\Electrolisis\Electrolisis\Debug\Electrolisis.Form1.resources
+D:\User\0\Desarollo\C++\Electrolisis\Electrolisis\Electrolisis\Debug\Electrolisis.vcxproj.GenerateResource.cache
